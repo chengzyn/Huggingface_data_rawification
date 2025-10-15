@@ -35,7 +35,7 @@ uv sync
 
 ## Running the Code
 
-In `Huggingface_data_rawification/`, run the example code
+In `Huggingface_data_rawification/`, run the example code (after setting the configs you need in the main function)
 
 ```bash
 uv run src/rawification_example_.py
